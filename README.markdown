@@ -16,7 +16,7 @@ Include `jquery.min.js` and `gif-buffer.js`, then simply set the image's `class`
 
 ## Demo
 
-**Download the project, and open `index.html` in your web browser.**
+[Gif Buffer Demo Page](http://matthewpalmer.net/gif-buffer/)
 
 ## Example
 ```html
